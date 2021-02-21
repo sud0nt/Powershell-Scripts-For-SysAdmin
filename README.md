@@ -1,14 +1,14 @@
 # Powershell Scripts for SysAdmins
  
-TODO: Add more Powershell scripts to benefit the SysAdmin
+Here you will find a collection of my Powershell scripts that I made to make my job easier, and automate as many tedious tasks as I possibly can.
 
 ## Installation
 
-TODO: Describe the installation process
+In order to run these scripts, you can clone the repository to a directory of your choice, and then simply open Powershell with elevated privileges, navigate to the directory where you cloned the repository, and then run `.\scriptname.ps1`.
 
 ## Usage
 
-TODO: Write usage instructions
+The scripts are used to automate your daily IT tasks as a systems administrator, making your life easier.
 
 ## Contributing
 
@@ -20,12 +20,12 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
+First created on 02/21/2021.
 
 ## Credits
 
-TODO: Write credits
+Created and maintained by Hunter Watkins aka sud0nt
 
 ## License
 
-TODO: Write license
+Completely open source. Free to use, edit, and whatever else your heart desires.
