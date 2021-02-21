@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+# Powershell Scripts for SysAdmins
  
 TODO: Add more Powershell scripts to benefit the SysAdmin
 
@@ -31,8 +29,3 @@ TODO: Write credits
 ## License
 
 TODO: Write license
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
-
